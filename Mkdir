@@ -1,5 +1,5 @@
 mkdir arif
 touch arif.sh
-ls
-sh arif.sh
+nano arif.sh
+
 
